@@ -10,6 +10,11 @@
 npm i --save familiar-log
 ```
 
+## Run the tests
+```
+npm run test
+```
+
 ## a logger for familiars 
 
 ```
